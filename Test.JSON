@@ -2,7 +2,7 @@
 "nodes":[
 {"node":0,"Miner":"node0"},
 {"node":1,"Seperator":"node1"},
-{"node":2,"Conveyers":"node2"}
+{"node":2,"Conveyers":"node2"},
 {"node":3,"UG Bins":"node3"},
 {"node":4,"Hoist":"node4"},
 {"node":5,"Surface Bins":"node5"},
